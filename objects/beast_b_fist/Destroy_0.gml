@@ -1,0 +1,1 @@
+scene_start(sce_boss_back_hand_lost)

@@ -1,0 +1,1 @@
+audio_play_sound(sfx_bullet_hit, 1, false);

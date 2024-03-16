@@ -1,0 +1,1 @@
+scene_move_loop(beast_head, 120, 60, 2);

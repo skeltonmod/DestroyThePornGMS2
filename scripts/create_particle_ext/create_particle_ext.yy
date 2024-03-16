@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"create_particle_ext",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_particle_ext",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

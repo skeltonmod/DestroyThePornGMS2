@@ -1,0 +1,242 @@
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\approach\approach.gml
+Converted description /// @description approach(current, target, amount)/// @param current
+/// @param  target
+/// @param  amount
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\instance_place_multiple\instance_place_multiple.gml
+Converted description /// @description instance_place_multiple(x, y, instance)/// @param x
+/// @param  y
+/// @param  instance
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\decimal_bbox_right\decimal_bbox_right.gml
+Converted description /// @description decimal_bbox_right()
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\decimal_bbox_bottom\decimal_bbox_bottom.gml
+Converted description /// @description decimal_bbox_bottom()
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\decimal_bbox_left\decimal_bbox_left.gml
+Converted description /// @description decimal_bbox_left()
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\decimal_bbox_top\decimal_bbox_top.gml
+Converted description /// @description decimal_bbox_top()
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\place_meeting_exception\place_meeting_exception.gml
+Converted description /// @description place_meeting_exception(x, y, obj, exception)/// @param x
+/// @param  y
+/// @param  obj
+/// @param  exception
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\initialize_movement_entity\initialize_movement_entity.gml
+Converted description /// @description initialize_movement_entity(gravity, friction, air_resistance, bounce, collision_object)/// @param gravity
+/// @param  friction
+/// @param  air_resistance
+/// @param  bounce
+/// @param  collision_object
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\move_movement_entity\move_movement_entity.gml
+Converted description /// @description move_movement_entity()
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\move_solid_entity\move_solid_entity.gml
+Converted description /// @description move_solid_entity(push_object)/// @param push_object
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\enable_movement_platform_actions\enable_movement_platform_actions.gml
+Converted description /// @description enable_movement_platform_actions(acceleration, run_speed, jump_height, right_input, left_input, jump_input, jump_release_input)/// @param acceleration
+/// @param  run_speed
+/// @param  jump_height
+/// @param  right_input
+/// @param  left_input
+/// @param  jump_input
+/// @param  jump_release_input
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\enable_movement_jump\enable_movement_jump.gml
+Converted description /// @description enable_movement_jump(height, input, release_input)/// @param height
+/// @param  input
+/// @param  release_input
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\enable_movement_run\enable_movement_run.gml
+Converted description /// @description enable_movement_run(acceleration, max_speed, right_input, left_input)/// @param acceleration
+/// @param  max_speed
+/// @param  right_input
+/// @param  left_input
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\enable_movement_run_axis\enable_movement_run_axis.gml
+Converted description /// @description enable_movement_run_axis(acceleration, max_speed, horizontal_axis)/// @param acceleration
+/// @param  max_speed
+/// @param  horizontal_axis
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\enable_movement_air_jump\enable_movement_air_jump.gml
+Converted description /// @description enable_movement_air_jump(height, input)/// @param height
+/// @param  input
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\enable_movement_wall_jump\enable_movement_wall_jump.gml
+Converted description /// @description enable_movement_wall_jump(height, distance, jump_input, right_input, left_input)/// @param height
+/// @param  distance
+/// @param  jump_input
+/// @param  right_input
+/// @param  left_input
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\animation_end\animation_end.gml
+Converted description /// @description animation_end()
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\animation_hit_frame\animation_hit_frame.gml
+Converted description /// @description animation_hit_frame(frame)/// @param frame
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\enable_movement_platform_sprites\enable_movement_platform_sprites.gml
+Converted description /// @description enable_movement_platform_sprites(idle_sprite, walk_sprite, jump_sprite, walk_animation_speed)/// @param idle_sprite
+/// @param  walk_sprite
+/// @param  jump_sprite
+/// @param  walk_animation_speed
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\add_movement_horizontal_vertical\add_movement_horizontal_vertical.gml
+Converted description /// @description add_movement_horizontal_vertical(hacceleration, vacceleration)/// @param hacceleration
+/// @param  vacceleration
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\set_movement_horizontal_vertical\set_movement_horizontal_vertical.gml
+Converted description /// @description set_movement_horizontal_vertical(hspeed, vspeed)/// @param hspeed
+/// @param  vspeed
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\add_movement_direction_acceleration\add_movement_direction_acceleration.gml
+Converted description /// @description add_movement_direction_acceleration(direction, acceleration);/// @param direction
+/// @param  acceleration
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\set_movement_direction_speed\set_movement_direction_speed.gml
+Converted description /// @description set_movement_direction_speed(direction, speed);/// @param direction
+/// @param  speed
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\add_movement_horizontal_vertical_maxspeed\add_movement_horizontal_vertical_maxspeed.gml
+Converted description /// @description add_movement_horizontal_vertical_maxspeed(hacceleration, vacceleration, maxhspeed, maxvspeed)/// @param hacceleration
+/// @param  vacceleration
+/// @param  maxhspeed
+/// @param  maxvspeed
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\warp_movement_entity\warp_movement_entity.gml
+Converted description /// @description warp_movement_entity(xwarp, vwarp)/// @param xwarp
+/// @param  vwarp
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\set_movement_collision_object\set_movement_collision_object.gml
+Converted description /// @description set_movement_collision_object(object)/// @param object
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\set_movement_friction\set_movement_friction.gml
+Converted description /// @description set_movement_friction(amount)/// @param amount
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\set_movement_bounce\set_movement_bounce.gml
+Converted description /// @description set_movement_bounce(amount)/// @param amount
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\set_movement_gravity\set_movement_gravity.gml
+Converted description /// @description set_movement_grav(amount)/// @param amount
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\add_decal\add_decal.gml
+Converted description /// @description add_decal(sprite index,image index,image angle,x,y);/// @param sprite index
+/// @param image index
+/// @param image angle
+/// @param x
+/// @param y
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\scripts\scale_canvas\scale_canvas.gml
+Converted builtin - line 26: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 24: view_wport[0] = min(window_get_width(), _bw) -> __view_set( e__VW.WPort, 0, min(window_get_width(), _bw) )
+Converted builtin - line 26: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 25: view_hport[0] = min(window_get_height(), _bh) -> __view_set( e__VW.HPort, 0, min(window_get_height(), _bh) )
+Converted description /// @description  @function                       scale_canvas(base width, base height, current width, current height, center);/// @param base width
+/// @param  base height
+/// @param  current width
+/// @param  current height
+/// @param  center
+
+GameMaker Studio 1 font texture has been backed up at C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\fonts\dialogue_font\dialogue_font.gms1.png
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\timelines\sce_hell_0_1\moment_0.gml
+String not found: ConversionLog_ConvertedString 1 'hell_0_1' "hell_0_1"
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\timelines\sce_hell_0_1\moment_1.gml
+String not found: ConversionLog_ConvertedString 8 'hell_0_3' "hell_0_3"
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\timelines\sce_hell_0_3\moment_0.gml
+String not found: ConversionLog_ConvertedString 1 'hell_0_3' "hell_0_3"
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\timelines\sce_hell_0_3\moment_1.gml
+String not found: ConversionLog_ConvertedString 5 'jump power' "jump power"
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\timelines\sce_hell_0_4\moment_0.gml
+String not found: ConversionLog_ConvertedString 3 'hell_0_4' "hell_0_4"
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\timelines\sce_hell_0_4\moment_1.gml
+String not found: ConversionLog_ConvertedString 5 'hell_0_6' "hell_0_6"
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\timelines\sce_power_jump\moment_0.gml
+String not found: ConversionLog_ConvertedString 9 'hell_0_4' "hell_0_4"
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\objects\camera\Step_0.gml
+Converted builtin - line 16: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview = -(view_wview / 2) + x -> __view_set( e__VW.XView, 0, -(view_wview / 2) + x )
+Converted builtin - line 17: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 14: view_yview = -(view_hview / 2) + y -> __view_set( e__VW.YView, 0, -(view_hview / 2) + y )
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 16: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 17: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 16: view_xview = clamp(__view_get( e__VW.XView, 0 ), 0, room_width - __view_get( e__VW.WView, 0 )) -> __view_set( e__VW.XView, 0, clamp(__view_get( e__VW.XView, 0 ), 0, room_width - __view_get( e__VW.WView, 0 )) )
+Converted builtin - line 17: view_yview = clamp(__view_get( e__VW.YView, 0 ), 0, room_height - __view_get( e__VW.HView, 0 )) -> __view_set( e__VW.YView, 0, clamp(__view_get( e__VW.YView, 0 ), 0, room_height - __view_get( e__VW.HView, 0 )) )
+Converted builtin - line 13: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 14: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\objects\lighting_controller\Create_0.gml
+Converted description /// @description  create and clear surfaces
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\objects\dialogue_controller\Create_0.gml
+String not found: ConversionLog_ConvertedString 12 '' ""
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\objects\dialogue_controller\Alarm_0.gml
+String not found: ConversionLog_ConvertedString 8 '' ""
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\objects\dialogue_controller\Draw_0.gml
+Converted builtin - line 33: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 36: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 51: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 55: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 28: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 28: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 46: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 46: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 33: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 36: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 51: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 55: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 28: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 46: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  move the text
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\objects\game_controller\Create_0.gml
+String not found: ConversionLog_ConvertedString 9 'intro' "intro"
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\objects\story_trigger\Create_0.gml
+String not found: ConversionLog_ConvertedString 2 '' ""
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\objects\shotgun_description\Step_0.gml
+Converted builtin - line 15: view_wview -> __view_get( e__VW.WView, 0 )
+String not found: ConversionLog_ConvertedString 1 'in' "in"
+String not found: ConversionLog_ConvertedString 6 'idle' "idle"
+String not found: ConversionLog_ConvertedString 13 'out' "out"
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\objects\shotgun_description\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\abgao\Documents\GameMakerStudio2\DTPRemake\conv\gmx\DTPRemake_75669448\rooms\room_intro\RoomCreationCode.gml
+String not found: ConversionLog_ConvertedString 1 'intro' "intro"
+
+Missing audiogroup for sound: 'sfx_missile_charge' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'draw\draw_set_blend_mode_ext.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_loop.gml'
+Added compatibility script 'texture\texture_set_interpolation.gml'
+Added compatibility script 'view\__view_get.gml'
+Added compatibility script 'view\__view_set.gml'
+Added compatibility script 'view\__view_set_internal.gml'
+Added compatibility script 'view\__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

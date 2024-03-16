@@ -1,0 +1,1 @@
+scene_start(sce_boss_front_hand_lost);

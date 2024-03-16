@@ -1,0 +1,1 @@
+state_set(boss_behavior_missile_fire);

@@ -1,0 +1,2 @@
+kill_player();
+

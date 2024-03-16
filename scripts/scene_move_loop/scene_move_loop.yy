@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scene_move_loop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scene_move_loop",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

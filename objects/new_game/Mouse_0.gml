@@ -1,0 +1,10 @@
+audio_stop_all();
+power_jump = false;
+has_gun = false;
+double_jump = false;
+infinite_jump = false;
+daemon_armor = false;
+door_down = false;
+global.story_chapter = "intro";
+global.current_music = song_area_0;
+room_goto(room_intro);

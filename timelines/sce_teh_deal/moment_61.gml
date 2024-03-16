@@ -1,0 +1,1 @@
+create_emote(player, 15, huh);

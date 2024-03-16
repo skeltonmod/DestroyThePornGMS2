@@ -1,0 +1,1 @@
+scene_start(sce_hell_start);

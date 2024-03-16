@@ -1,0 +1,1 @@
+song_play(song_quirky);

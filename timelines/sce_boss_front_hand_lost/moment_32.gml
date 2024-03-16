@@ -1,0 +1,1 @@
+scene_start(boss_behavior_throw);

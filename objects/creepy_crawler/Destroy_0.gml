@@ -1,0 +1,1 @@
+create_explosion(8, x, y, 1);
