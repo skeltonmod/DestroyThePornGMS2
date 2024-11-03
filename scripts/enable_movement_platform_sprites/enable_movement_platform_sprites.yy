@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"enable_movement_platform_sprites",
   "isCompatibility":false,
   "isDnD":false,

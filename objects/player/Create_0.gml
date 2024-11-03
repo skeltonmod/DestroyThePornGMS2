@@ -7,9 +7,14 @@ animation_delay = .1
 frame = 0;
 max_frames = 4;
 
+global.invincible = true;
+global.invincible_timer = 5;
+
+
+alarm[2] = 30 * global.invincible_timer
 
 // Animation controls
-alarm[0] = room_speed * animation_delay;
+alarm[0] = 30 * animation_delay;
 //instance_create(x, y, shotty);
 
 if(!instance_exists(game_controller)){

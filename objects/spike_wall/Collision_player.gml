@@ -1,2 +1,3 @@
-kill_player();
-
+if(!global.invincible){
+	kill_player();
+}

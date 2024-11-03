@@ -66,7 +66,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"DTPRemake",
   "resources":[
@@ -96,6 +96,7 @@
     {"id":{"name":"exploder_2","path":"objects/exploder_2/exploder_2.yy",},},
     {"id":{"name":"exploder","path":"objects/exploder/exploder.yy",},},
     {"id":{"name":"explosion_part","path":"objects/explosion_part/explosion_part.yy",},},
+    {"id":{"name":"fire_small","path":"objects/fire_small/fire_small.yy",},},
     {"id":{"name":"fire_trap","path":"objects/fire_trap/fire_trap.yy",},},
     {"id":{"name":"flapper_gib","path":"objects/flapper_gib/flapper_gib.yy",},},
     {"id":{"name":"flash_text","path":"objects/flash_text/flash_text.yy",},},
@@ -110,7 +111,6 @@
     {"id":{"name":"load_game","path":"objects/load_game/load_game.yy",},},
     {"id":{"name":"magazine","path":"objects/magazine/magazine.yy",},},
     {"id":{"name":"new_game","path":"objects/new_game/new_game.yy",},},
-    {"id":{"name":"fire_small","path":"objects/fire_small/fire_small.yy",},},
     {"id":{"name":"par_enemies","path":"objects/par_enemies/par_enemies.yy",},},
     {"id":{"name":"par_solids","path":"objects/par_solids/par_solids.yy",},},
     {"id":{"name":"particle_lava","path":"objects/particle_lava/particle_lava.yy",},},

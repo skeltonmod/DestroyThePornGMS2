@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"clamp_wrap",
   "isCompatibility":false,
   "isDnD":false,

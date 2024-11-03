@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"set_movement_collision_object",
   "isCompatibility":false,
   "isDnD":false,

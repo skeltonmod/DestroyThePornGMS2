@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"checkpoint",
   "isCompatibility":false,
   "isDnD":false,

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"instance_place_multiple",
   "isCompatibility":false,
   "isDnD":false,

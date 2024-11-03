@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"create_white_debris",
   "isCompatibility":false,
   "isDnD":false,

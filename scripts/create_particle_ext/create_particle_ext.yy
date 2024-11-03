@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"create_particle_ext",
   "isCompatibility":false,
   "isDnD":false,

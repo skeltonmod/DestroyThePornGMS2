@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"set_movement_direction_speed",
   "isCompatibility":false,
   "isDnD":false,

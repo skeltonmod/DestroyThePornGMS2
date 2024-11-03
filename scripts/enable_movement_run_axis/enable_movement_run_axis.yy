@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"enable_movement_run_axis",
   "isCompatibility":false,
   "isDnD":false,

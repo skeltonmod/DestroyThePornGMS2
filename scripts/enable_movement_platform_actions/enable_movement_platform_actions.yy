@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"enable_movement_platform_actions",
   "isCompatibility":false,
   "isDnD":false,

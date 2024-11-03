@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scene_move_animate",
   "isCompatibility":false,
   "isDnD":false,

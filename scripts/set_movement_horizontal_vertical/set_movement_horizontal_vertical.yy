@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"set_movement_horizontal_vertical",
   "isCompatibility":false,
   "isDnD":false,

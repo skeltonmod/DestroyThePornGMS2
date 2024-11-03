@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"add_movement_direction_acceleration",
   "isCompatibility":false,
   "isDnD":false,

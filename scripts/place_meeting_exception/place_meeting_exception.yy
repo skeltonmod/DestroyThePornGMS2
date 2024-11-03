@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"place_meeting_exception",
   "isCompatibility":false,
   "isDnD":false,

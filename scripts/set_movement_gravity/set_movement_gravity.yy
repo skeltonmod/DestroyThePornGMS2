@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"set_movement_gravity",
   "isCompatibility":false,
   "isDnD":false,

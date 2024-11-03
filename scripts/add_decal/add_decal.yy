@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"add_decal",
   "isCompatibility":false,
   "isDnD":false,

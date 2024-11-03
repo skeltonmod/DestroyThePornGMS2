@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"decimal_bbox_bottom",
   "isCompatibility":false,
   "isDnD":false,

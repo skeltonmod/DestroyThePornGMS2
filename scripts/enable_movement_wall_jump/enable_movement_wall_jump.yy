@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"enable_movement_wall_jump",
   "isCompatibility":false,
   "isDnD":false,

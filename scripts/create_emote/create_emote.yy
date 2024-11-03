@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"create_emote",
   "isCompatibility":false,
   "isDnD":false,
